@@ -1,0 +1,182 @@
+{
+    "success": true,
+    "data": {
+        "next_page": false,
+        "match": [
+            {
+                "et_score": "",
+                "has_lineups": true,
+                "home_name": "Argentina",
+                "competition_name": "FIFA World Cup",
+                "league_id": 0,
+                "competition_id": 362,
+                "last_changed": "2022-12-13 22:54:02",
+                "scheduled": "19:00",
+                "fixture_id": 1581457,
+                "date": "2022-12-13",
+                "home_id": 1443,
+                "location": "Lusail Stadium, Lusail",
+                "events": "https://livescore-api.com/api-client/scores/events.json?id=385094&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn",
+                "time": "FT",
+                "status": "FINISHED",
+                "added": "2022-12-13 18:45:09",
+                "ft_score": "3 - 0",
+                "away_id": 211,
+                "id": 385094,
+                "away_name": "Croatia",
+                "outcomes": {
+                    "extra_time": null,
+                    "full_time": "1",
+                    "half_time": "1"
+                },
+                "ht_score": "2 - 0",
+                "odds": {
+                    "pre": {
+                        "1": 1.95,
+                        "2": 4.75,
+                        "X": 3.1
+                    },
+                    "live": {
+                        "1": 1.02,
+                        "2": 67,
+                        "X": 17
+                    }
+                },
+                "h2h": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=1443&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn&team2_id=211",
+                "score": "3 - 0",
+                "ps_score": ""
+            },
+            {
+                "et_score": "",
+                "has_lineups": true,
+                "home_name": "France",
+                "competition_name": "FIFA World Cup",
+                "league_id": 0,
+                "competition_id": 362,
+                "last_changed": "2022-12-14 22:54:02",
+                "scheduled": "19:00",
+                "fixture_id": 1581458,
+                "date": "2022-12-14",
+                "home_id": 1439,
+                "location": "Al Bayt Stadium, Al Khor",
+                "events": "https://livescore-api.com/api-client/scores/events.json?id=385174&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn",
+                "time": "FT",
+                "status": "FINISHED",
+                "added": "2022-12-14 18:45:07",
+                "ft_score": "2 - 0",
+                "away_id": 1435,
+                "id": 385174,
+                "away_name": "Morocco",
+                "outcomes": {
+                    "extra_time": null,
+                    "full_time": "1",
+                    "half_time": "1"
+                },
+                "ht_score": "1 - 0",
+                "odds": {
+                    "pre": {
+                        "1": 1.55,
+                        "2": 6.5,
+                        "X": 4
+                    },
+                    "live": {
+                        "1": 1.01,
+                        "2": 126,
+                        "X": 26
+                    }
+                },
+                "h2h": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=1439&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn&team2_id=1435",
+                "score": "2 - 0",
+                "ps_score": ""
+            },
+            {
+                "et_score": "",
+                "has_lineups": true,
+                "home_name": "Croatia",
+                "competition_name": "FIFA World Cup",
+                "league_id": 0,
+                "competition_id": 362,
+                "last_changed": "2022-12-17 18:54:16",
+                "scheduled": "15:00",
+                "fixture_id": 1581459,
+                "date": "2022-12-17",
+                "home_id": 211,
+                "location": "Khalifa International Stadium, Al Rayyan",
+                "events": "https://livescore-api.com/api-client/scores/events.json?id=385530&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn",
+                "time": "FT",
+                "status": "FINISHED",
+                "added": "2022-12-17 14:46:11",
+                "ft_score": "2 - 1",
+                "away_id": 1435,
+                "id": 385530,
+                "away_name": "Morocco",
+                "outcomes": {
+                    "extra_time": null,
+                    "full_time": "1",
+                    "half_time": "1"
+                },
+                "ht_score": "2 - 1",
+                "odds": {
+                    "pre": {
+                        "1": 2.2,
+                        "2": 3.1,
+                        "X": 3.5
+                    },
+                    "live": {
+                        "1": 1.01,
+                        "2": 501,
+                        "X": 21
+                    }
+                },
+                "h2h": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=211&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn&team2_id=1435",
+                "score": "2 - 1",
+                "ps_score": ""
+            },
+            {
+                "et_score": "3 - 3",
+                "has_lineups": true,
+                "home_name": "Argentina",
+                "competition_name": "FIFA World Cup",
+                "league_id": 0,
+                "competition_id": 362,
+                "last_changed": "2022-12-18 18:54:06",
+                "scheduled": "15:00",
+                "fixture_id": 1581460,
+                "date": "2022-12-18",
+                "home_id": 1443,
+                "location": "Lusail Stadium, Lusail",
+                "events": "https://livescore-api.com/api-client/scores/events.json?id=385735&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn",
+                "time": "AP",
+                "status": "FINISHED",
+                "added": "2022-12-18 14:45:12",
+                "ft_score": "2 - 2",
+                "away_id": 1439,
+                "id": 385735,
+                "away_name": "France",
+                "outcomes": {
+                    "extra_time": "X",
+                    "full_time": "X",
+                    "half_time": "1"
+                },
+                "ht_score": "2 - 0",
+                "odds": {
+                    "pre": {
+                        "1": 2.7,
+                        "2": 2.88,
+                        "X": 3.1
+                    },
+                    "live": {
+                        "1": 26,
+                        "2": 26,
+                        "X": 1.01
+                    }
+                },
+                "h2h": "https://livescore-api.com/api-client/teams/head2head.json?team1_id=1443&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&key=ILHc6lLwJGDvNgvn&team2_id=1439",
+                "score": "3 - 3",
+                "ps_score": "4 - 2"
+            }
+        ],
+        "total_pages": 3,
+        "prev_page": "https://livescore-api.com/api-client/scores/history.json?key=ILHc6lLwJGDvNgvn&from=2022-01-01&competition_id=362&secret=iATp9rDeujFXzLghwYuCkf93WMyJ337m&to=2022-12-31&page=2"
+    }
+}

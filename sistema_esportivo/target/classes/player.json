@@ -1,0 +1,24 @@
+{
+  "data": [
+        {
+          "name": "Alisson Becker",
+          "age": "30",
+          "nationality": "Brasileiro",
+          "position": "Goleiro",
+          "club": "Liverpool FC (ENG)",
+          "shirtNumber": "1",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Vinicius Junior",
+          "age": "23",
+          "nationality": "Brasileiro",
+          "position": "Atacante",
+          "club": "Real Madrid CF (SPA)",
+          "shirtNumber": "11",
+          "goalsScored": "1",
+          "assists": "2"
+        }
+      ]
+}

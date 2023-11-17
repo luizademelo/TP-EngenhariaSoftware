@@ -1,0 +1,77 @@
+{
+    "data": [
+      {
+        "group": "Group A",
+        "teams": [
+          "Qatar",
+          "Ecuador",
+          "Senegal",
+          "The Netherlands"
+        ]
+      },
+      {
+        "group": "Group B",
+        "teams": [
+          "England",
+          "IR Iran",
+          "USA",
+          "Wales"
+        ]
+      },
+      {
+        "group": "Group C",
+        "teams": [
+          "Argentina",
+          "Saudi Arabia",
+          "Mexico",
+          "Poland"
+        ]
+      },
+      {
+        "group": "Group D",
+        "teams": [
+          "France",
+          "Australia",
+          "Denmark",
+          "Tunisia"
+        ]
+      },
+      {
+        "group": "Group E",
+        "teams": [
+          "Spain",
+          "Costa Rica",
+          "Germany",
+          "Japan"
+        ]
+      },
+      {
+        "group": "Group F",
+        "teams": [
+          "Belgium",
+          "Canada",
+          "Morocco",
+          "Croatia"
+        ]
+      },
+      {
+        "group": "Group G",
+        "teams": [
+          "Brazil",
+          "Serbia",
+          "Switzerland",
+          "Cameroon"
+        ]
+      },
+      {
+        "group": "Group H",
+        "teams": [
+          "Portugal",
+          "Ghana",
+          "Uruguay",
+          "Korea Republic"
+        ]
+      }
+    ]
+  }
+  

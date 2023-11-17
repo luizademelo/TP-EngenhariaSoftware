@@ -1,0 +1,52 @@
+{
+    "data": [
+            {
+              "titulo": "Qualificação",
+              "descricao": "As seleções passam por qualificação baseada em desempenho regional."
+            },
+            {
+              "titulo": "Formato do Torneio",
+              "descricao": "Fase de grupos seguida por fases eliminatórias."
+            },
+            {
+              "titulo": "Pontuação",
+              "descricao": "Vitória: 3 pontos, Empate: 1 ponto, Derrota: 0 pontos."
+            },
+            {
+              "titulo": "Desempates",
+              "descricao": "Critérios incluem saldo de gols, gols marcados, confronto direto e fair play."
+            },
+            {
+              "titulo": "Cartões e Suspensões",
+              "descricao": "Cartões amarelos acumulam penalidades; vermelhos resultam em suspensões."
+            },
+            {
+              "titulo": "Variação de Local",
+              "descricao": "Jogos em diferentes cidades e estádios do país anfitrião."
+            },
+            {
+              "titulo": "Árbitros e Arbitragem",
+              "descricao": "Árbitros oficiais com possibilidade de uso do VAR."
+            },
+            {
+              "titulo": "Fair Play",
+              "descricao": "Avaliação do fair play com base no número de cartões recebidos."
+            },
+            {
+              "titulo": "Cerimônias",
+              "descricao": "Hinos nacionais antes dos jogos; cerimônias de abertura e fechamento."
+            },
+            {
+              "titulo": "Troféu",
+              "descricao": "A equipe vencedora recebe a Taça da Copa do Mundo."
+            },
+            {
+              "titulo": "Premiações Individuais",
+              "descricao": "Chuteira de Ouro para o artilheiro; Luva de Ouro para o melhor goleiro."
+            },
+            {
+              "titulo": "Respeito às Regras e Ética",
+              "descricao": "Equipes devem seguir o código de ética da FIFA e as regras estabelecidas."
+            }
+    ]
+}

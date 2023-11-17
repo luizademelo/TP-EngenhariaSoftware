@@ -1,0 +1,197 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": "1456",
+            "name": "England",
+            "stadium": "Wembley Stadium",
+            "location": "Wembley Stadium"
+        },
+        {
+            "id": "1436",
+            "name": "Iran",
+            "stadium": "Azadi Stadium",
+            "location": "Azadi Stadium"
+        },
+        {
+            "id": "2685",
+            "name": "Wales",
+            "stadium": "Principality Stadium",
+            "location": "Principality Stadium"
+        },
+        {
+            "id": "1849",
+            "name": "USA",
+            "stadium": "",
+            "location": ""
+        },
+        {
+            "id": "1460",
+            "name": "Senegal",
+            "stadium": "Stade Léopold Sédar Senghor",
+            "location": "Stade Léopold Sédar Senghor"
+        },
+        {
+            "id": "1649",
+            "name": "Netherlands",
+            "stadium": "Johan Cruijff Arena",
+            "location": "Johan Cruijff Arena"
+        },
+        {
+            "id": "1847",
+            "name": "Ecuador",
+            "stadium": "Estadio Olímpico Atahualpa",
+            "location": "Estadio Olímpico Atahualpa"
+        },
+        {
+            "id": "1427",
+            "name": "Qatar",
+            "stadium": "Khalifa International Stadium",
+            "location": "Khalifa International Stadium"
+        },
+        {
+            "id": "1432",
+            "name": "Saudi Arabia",
+            "stadium": "King Fahd International Stadium",
+            "location": "King Fahd International Stadium"
+        },
+        {
+            "id": "1459",
+            "name": "Poland",
+            "stadium": "Stadion Narodowy",
+            "location": "Stadion Narodowy"
+        },
+        {
+            "id": "1450",
+            "name": "Mexico",
+            "stadium": "",
+            "location": ""
+        },
+        {
+            "id": "1443",
+            "name": "Argentina",
+            "stadium": "Estadio Monumental Antonio Vespucio Liberti",
+            "location": "Estadio Monumental Antonio Vespucio Liberti"
+        },
+        {
+            "id": "1439",
+            "name": "France",
+            "stadium": "Stade de France",
+            "location": "Stade de France"
+        },
+        {
+            "id": "1455",
+            "name": "Tunisia",
+            "stadium": "Stade Olympique de Radès",
+            "location": "Stade Olympique de Radès"
+        },
+        {
+            "id": "1442",
+            "name": "Denmark",
+            "stadium": "Telia Parken",
+            "location": "Telia Parken"
+        },
+        {
+            "id": "1440",
+            "name": "Australia",
+            "stadium": "ANZ Stadium",
+            "location": "ANZ Stadium"
+        },
+        {
+            "id": "1438",
+            "name": "Spain",
+            "stadium": "Estadio Santiago Bernabéu",
+            "location": "Estadio Santiago Bernabéu"
+        },
+        {
+            "id": "1458",
+            "name": "Japan",
+            "stadium": "National Olympic Stadium",
+            "location": "National Olympic Stadium"
+        },
+        {
+            "id": "1449",
+            "name": "Germany",
+            "stadium": "Olympiastadion Berlin",
+            "location": "Olympiastadion Berlin"
+        },
+        {
+            "id": "1446",
+            "name": "Costa Rica",
+            "stadium": "",
+            "location": ""
+        },
+        {
+            "id": "1453",
+            "name": "Belgium",
+            "stadium": "Stade Roi Baudouin",
+            "location": "Stade Roi Baudouin"
+        },
+        {
+            "id": "211",
+            "name": "Croatia",
+            "stadium": "Stadion Maksimir",
+            "location": "Stadion Maksimir"
+        },
+        {
+            "id": "1435",
+            "name": "Morocco",
+            "stadium": "Stade Mohamed V",
+            "location": "Stade Mohamed V"
+        },
+        {
+            "id": "1674",
+            "name": "Canada",
+            "stadium": "",
+            "location": ""
+        },
+        {
+            "id": "1448",
+            "name": "Brazil",
+            "stadium": "Estadio Jornalista Mário Filho (Maracanã)",
+            "location": "Estadio Jornalista Mário Filho (Maracanã)"
+        },
+        {
+            "id": "208",
+            "name": "Switzerland",
+            "stadium": "St. Jakob-Park",
+            "location": "St. Jakob-Park"
+        },
+        {
+            "id": "2711",
+            "name": "Cameroon",
+            "stadium": "Stade Omnisport Ahmadou Ahidjo",
+            "location": "Stade Omnisport Ahmadou Ahidjo"
+        },
+        {
+            "id": "1447",
+            "name": "Serbia",
+            "stadium": "Stadion Rajko Mitić",
+            "location": "Stadion Rajko Mitić"
+        },
+        {
+            "id": "1437",
+            "name": "Portugal",
+            "stadium": "Estádio Nacional",
+            "location": "Estádio Nacional"
+        },
+        {
+            "id": "1452",
+            "name": "South Korea",
+            "stadium": "Seoul World Cup Stadium",
+            "location": "Seoul World Cup Stadium"
+        },
+        {
+            "id": "1434",
+            "name": "Uruguay",
+            "stadium": "Estadio Centenario",
+            "location": "Estadio Centenario"
+        },
+        {
+            "id": "214",
+            "name": "Ghana",
+            "stadium": "Ohene Djan Sports Stadium",
+            "location": "Ohene Djan Sports Stadium"
+        }
+    ]
+}
