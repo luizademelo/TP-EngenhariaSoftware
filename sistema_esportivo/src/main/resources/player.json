@@ -1,8 +1,276 @@
 {
   "data": [
+    {
+      "nationalTeam": "ARGENTINA",
+      "players": [
+        {
+          "name": "Emiliano Martínez",
+          "age": "31",
+          "nationality": "Argentino",
+          "position": "Goleiro",
+          "club": "Aston Villa (ENG)",
+          "shirtNumber": "23",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Franco Armani",
+          "age": "37",
+          "nationality": "Argentino",
+          "position": "Goleiro",
+          "club": "River Plate (ARG)",
+          "shirtNumber": "1",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Gerónimo Rulli",
+          "age": "31",
+          "nationality": "Argentino",
+          "position": "Goleiro",
+          "club": "Villareal (SPA)",
+          "shirtNumber": "12",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Gonzalo Montiel",
+          "age": "26",
+          "nationality": "Argentino",
+          "position": "Lateral Direito",
+          "club": "Sevilla (SPA)",
+          "shirtNumber": "4",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Nahuel Molina",
+          "age": "25",
+          "nationality": "Argentino",
+          "position": "Lateral Direito",
+          "club": "Atlético Madrid (SPA)",
+          "shirtNumber": "26",
+          "goalsScored": "1",
+          "assists": "1"
+        },
+        {
+          "name": "Nicolás Tagliafico",
+          "age": "31",
+          "nationality": "Argentino",
+          "position": "Lateral Esquerdo",
+          "club": "Lyon (FRA)",
+          "shirtNumber": "3",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Marcos Acunã",
+          "age": "32",
+          "nationality": "Argentino",
+          "position": "Lateral Esquerdo",
+          "club": "Sevilla (SPA)",
+          "shirtNumber": "8",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Juan Foyth",
+          "age": "25",
+          "nationality": "Argentino",
+          "position": "Zagueiro",
+          "club": "Villareal (SPA)",
+          "shirtNumber": "2",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Germán Pezella",
+          "age": "32",
+          "nationality": "Argentino",
+          "position": "Zagueiro",
+          "club": "Real Betis (SPA)",
+          "shirtNumber": "6",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Cristian Romero",
+          "age": "25",
+          "nationality": "Argentino",
+          "position": "Zagueiro",
+          "club": "Tottenham Hotspur (ENG)",
+          "shirtNumber": "13",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Lisandro Martínez",
+          "age": "25",
+          "nationality": "Argentino",
+          "position": "Zagueiro",
+          "club": "Manchester United (ENG)",
+          "shirtNumber": "24",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Nicolás Otamendi",
+          "age": "35",
+          "nationality": "Argentino",
+          "position": "Volante",
+          "club": "SL Benfica (POR)",
+          "shirtNumber": "19",
+          "goalsScored": "0",
+          "assists": "1"
+        },
+        {
+          "name": "Guido Rodríguez",
+          "age": "29",
+          "nationality": "Argentino",
+          "position": "Volante",
+          "club": "Real Betis (SPA)",
+          "shirtNumber": "18",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Enzo Fernández",
+          "age": "22",
+          "nationality": "Argentino",
+          "position": "Volante",
+          "club": "SL Benfica (POR)",
+          "shirtNumber": "24",
+          "goalsScored": "1",
+          "assists": "1"
+        },
+        {
+          "name": "Leandro Paredes",
+          "age": "29",
+          "nationality": "Argentino",
+          "position": "Volante",
+          "club": "Juventus (ITA)",
+          "shirtNumber": "5",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Rodrigo de Paul",
+          "age": "29",
+          "nationality": "Argentino",
+          "position": "Meia Central",
+          "club": "Atlético Madrid (SPA)",
+          "shirtNumber": "7",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Exequiel Palacios",
+          "age": "25",
+          "nationality": "Argentino",
+          "position": "Meia Central",
+          "club": "Bayer Leverkusen (GER)",
+          "shirtNumber": "14",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "age": "24",
+          "nationality": "Argentino",
+          "position": "Meia Central",
+          "club": "Brighton & Hove Albion (ENG)",
+          "shirtNumber": "20",
+          "goalsScored": "1",
+          "assists": "0"
+        },
+        {
+          "name": "Thiago Almada",
+          "age": "22",
+          "nationality": "Argentino",
+          "position": "Meia Atacante",
+          "club": "Atlanta United (EUA)",
+          "shirtNumber": "16",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Alejandro 'Papu' Gómez",
+          "age": "35",
+          "nationality": "Argentino",
+          "position": "Meia Atacante/Ponta Esquerda",
+          "club": "Sevilla (SPA)",
+          "shirtNumber": "17",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Ángel Di María",
+          "age": "35",
+          "nationality": "Argentino",
+          "position": "Ponta Esquerda/Ponta Direita",
+          "club": "Juventus (ITA)",
+          "shirtNumber": "11",
+          "goalsScored": "0",
+          "assists": "1"
+        },
+        {
+          "name": "Julián Álvarez",
+          "age": "23",
+          "nationality": "Argentino",
+          "position": "Ponta Direita/Atacante",
+          "club": "Manchester City (ENG)",
+          "shirtNumber": "9",
+          "goalsScored": "4",
+          "assists": "0"
+        },
+        {
+          "name": "Lionel Messi",
+          "age": "36",
+          "nationality": "Argentino",
+          "position": "Ponta Direita/Atacante",
+          "club": "Paris Saint-Germain/PSG (FRA)",
+          "shirtNumber": "10",
+          "goalsScored": "5",
+          "assists": "3"
+        },
+        {
+          "name": "Paulo Dybala",
+          "age": "29",
+          "nationality": "Argentino",
+          "position": "Atacante",
+          "club": "AS Roma (ITA)",
+          "shirtNumber": "21",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Lautaro Martínez",
+          "age": "26",
+          "nationality": "Argentino",
+          "position": "Atacante",
+          "club": "Internazionale (ITA)",
+          "shirtNumber": "22",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Ángel Correa",
+          "age": "28",
+          "nationality": "Argentino",
+          "position": "Atacante",
+          "club": "Atlético Madrid (SPA)",
+          "shirtNumber": "15",
+          "goalsScored": "0",
+          "assists": "0"
+        }
+      ]
+    },
+    {
+      "nationalTeam": "BRASIL",
+      "players": [
         {
           "name": "Alisson Becker",
-          "age": "30",
+          "age": "31",
           "nationality": "Brasileiro",
           "position": "Goleiro",
           "club": "Liverpool FC (ENG)",
@@ -11,14 +279,246 @@
           "assists": "0"
         },
         {
+          "name": "Ederson Moraes",
+          "age": "30",
+          "nationality": "Brasileiro",
+          "position": "Goleiro",
+          "club": "Manchester City (ENG)",
+          "shirtNumber": "23",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Weverton",
+          "age": "35",
+          "nationality": "Brasileiro",
+          "position": "Goleiro",
+          "club": "Palmeiras (BRA)",
+          "shirtNumber": "12",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Danilo Luiz",
+          "age": "32",
+          "nationality": "Brasileiro",
+          "position": "Lateral Direito",
+          "club": "Juventus (ITA)",
+          "shirtNumber": "2",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Alex Sandro",
+          "age": "32",
+          "nationality": "Brasileiro",
+          "position": "Lateral Esquerdo",
+          "club": "Juventus (ITA)",
+          "shirtNumber": "6",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Alex Telles",
+          "age": "30",
+          "nationality": "Brasileiro",
+          "position": "Lateral Esquerdo",
+          "club": "Sevilla (SPA)",
+          "shirtNumber": "16",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Thiago Silva",
+          "age": "39",
+          "nationality": "Brasileiro",
+          "position": "Zagueiro",
+          "club": "Chelsea (ENG)",
+          "shirtNumber": "3",
+          "goalsScored": "0",
+          "assists": "1"
+        },
+        {
+          "name": "Marquinhos",
+          "age": "29",
+          "nationality": "Brasileiro",
+          "position": "Zagueiro",
+          "club": "Paris Saint-Germain/PSG (FRA)",
+          "shirtNumber": "4",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Éder Militão",
+          "age": "25",
+          "nationality": "Brasileiro",
+          "position": "Zagueiro",
+          "club": "Real Madrid (SPA)",
+          "shirtNumber": "14",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Bremer",
+          "age": "26",
+          "nationality": "Brasileiro",
+          "position": "Zagueiro",
+          "club": "Juventus (ITA)",
+          "shirtNumber": "24",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Casemiro",
+          "age": "31",
+          "nationality": "Brasileiro",
+          "position": "Volante",
+          "club": "Manchester United (ENG)",
+          "shirtNumber": "5",
+          "goalsScored": "1",
+          "assists": "0"
+        },
+        {
+          "name": "Fred",
+          "age": "30",
+          "nationality": "Brasileiro",
+          "position": "Volante",
+          "club": "Manchester United (ENG)",
+          "shirtNumber": "8",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Fabinho",
+          "age": "30",
+          "nationality": "Brasileiro",
+          "position": "Volante",
+          "club": "Liverpool (ENG)",
+          "shirtNumber": "15",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Bruno Guimarães",
+          "age": "26",
+          "nationality": "Brasileiro",
+          "position": "Volante",
+          "club": "Newcastle United (ENG)",
+          "shirtNumber": "17",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Lucas Paquetá",
+          "age": "26",
+          "nationality": "Brasileiro",
+          "position": "Meia Central",
+          "club": "West Ham (ENG)",
+          "shirtNumber": "7",
+          "goalsScored": "1",
+          "assists": "1"
+        },
+        {
+          "name": "Éverton Ribeiro",
+          "age": "34",
+          "nationality": "Brasileiro",
+          "position": "Meia Central/Meia Atacante",
+          "club": "Flamengo (BRA)",
+          "shirtNumber": "22",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Neymar Jr",
+          "age": "31",
+          "nationality": "Brasileiro",
+          "position": "Meia Atacante/Ponta Esquerda",
+          "club": "Paris Saint-Germain/PSG (FRA)",
+          "shirtNumber": "10",
+          "goalsScored": "2",
+          "assists": "1"
+        },
+        {
           "name": "Vinicius Junior",
           "age": "23",
           "nationality": "Brasileiro",
-          "position": "Atacante",
+          "position": "Ponta Esquerda",
           "club": "Real Madrid CF (SPA)",
-          "shirtNumber": "11",
+          "shirtNumber": "20",
           "goalsScored": "1",
           "assists": "2"
+        },
+        {
+          "name": "Gabriel Martinelli",
+          "age": "22",
+          "nationality": "Brasileiro",
+          "position": "Ponta Esquerda",
+          "club": "Arsenal (ENG)",
+          "shirtNumber": "20",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Raphinha",
+          "age": "26",
+          "nationality": "Brasileiro",
+          "position": "Ponta Direita",
+          "club": "FC Barcelona (SPA)",
+          "shirtNumber": "11",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Rodrygo",
+          "age": "22",
+          "nationality": "Brasileiro",
+          "position": "Ponta Direita",
+          "club": "Real Madrid CF (SPA)",
+          "shirtNumber": "21",
+          "goalsScored": "0",
+          "assists": "1"
+        },
+        {
+          "name": "Antony Santos",
+          "age": "23",
+          "nationality": "Brasileiro",
+          "position": "Ponta Direita",
+          "club": "Manchester United (ENG)",
+          "shirtNumber": "19",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Richarlison",
+          "age": "26",
+          "nationality": "Brasileiro",
+          "position": "Atacante",
+          "club": "Tottenham Hotspur (ENG)",
+          "shirtNumber": "9",
+          "goalsScored": "3",
+          "assists": "0"
+        },
+        {
+          "name": "Gabriel Jesus",
+          "age": "26",
+          "nationality": "Brasileiro",
+          "position": "Atacante",
+          "club": "Arsenal (ENG)",
+          "shirtNumber": "18",
+          "goalsScored": "0",
+          "assists": "0"
+        },
+        {
+          "name": "Pedro Guilherme",
+          "age": "26",
+          "nationality": "Brasileiro",
+          "position": "Atacante",
+          "club": "Flamengo (BRA)",
+          "shirtNumber": "25",
+          "goalsScored": "0",
+          "assists": "0"
         }
       ]
+    }
+  ]
 }

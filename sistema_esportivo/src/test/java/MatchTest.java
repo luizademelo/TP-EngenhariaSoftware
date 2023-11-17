@@ -1,8 +1,8 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import com.sistema_esportivo.Match;
-import com.sistema_esportivo.Team;
+import com.sistema_esportivo.Classes.Match;
+import com.sistema_esportivo.Classes.Team;
 
 public class MatchTest {
 

@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import com.sistema_esportivo.JsonHelper;
+import com.sistema_esportivo.Helpers.JsonHelper;
 
 public class JsonHelperTest {
     

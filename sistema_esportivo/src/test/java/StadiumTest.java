@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-import com.sistema_esportivo.Stadium;
+import com.sistema_esportivo.Classes.Stadium;
 
 
 public class StadiumTest {
