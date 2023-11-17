@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+          "City": "Al Khor",
+          "Stadium": "Al Bayt Stadium",
+          "Capacity": "68,895"
+        },
+        {
+          "City": "Lusail",
+          "Stadium": "Lusail Stadium",
+          "Capacity": "88,966"
+        },
+        {
+          "City": "Al Rayyan",
+          "Stadium": "Ahmad bin Ali Stadium",
+          "Capacity": "45,032"
+        },
+        {
+          "City": "Education City",
+          "Stadium": "Education City Stadium",
+          "Capacity": "44,667"
+        },
+        {
+          "City": "Khalifa International",
+          "Stadium": "Khalifa International Stadium",
+          "Capacity": "45,857"
+        },
+        {
+          "City": "Doha",
+          "Stadium": "Al Thumama Stadium",
+          "Capacity": "44,400"
+        },
+        {
+          "City": "Stadium 974",
+          "Stadium": "Stadium 974",
+          "Capacity": "44,089"
+        },
+        {
+          "City": "Al Wakrah",
+          "Stadium": "Al Janoub Stadium",
+          "Capacity": "44,325"
+        }
+    ]
+}
