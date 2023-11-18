@@ -9,9 +9,9 @@ public class StadiumTest {
     @Test
     public void testStadiumCreation() {
         Stadium team = new Stadium("Cidade", "Nome", "Capacidade");
-        assertEquals("O objeto Stadium não foi criado corretamente", team.getCity(), "Cidade");
-        assertEquals("O objeto Stadium não foi criado corretamente", team.getStadium_name(), "Nome");
-        assertEquals("O objeto Stadium não foi criado corretamente", team.getCapacity(), "Capacidade");
+        assertEquals("A cidade do estádio não foi criado corretamente", team.getCity(), "Cidade");
+        assertEquals("O nome do estádio não foi criado corretamente", team.getStadium_name(), "Nome");
+        assertEquals("A capacidade do estádio não foi criado corretamente", team.getCapacity(), "Capacidade");
     }
 
 }

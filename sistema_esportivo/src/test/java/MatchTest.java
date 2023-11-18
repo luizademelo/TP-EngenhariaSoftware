@@ -12,9 +12,9 @@ public class MatchTest {
         Team team2 = new Team("1234", "Nome2", "Estadio2", "Local2");
         Match match = new Match(team1, team2, "0 - 0"); 
 
-        assertTrue("O objeto Match não foi criado corretamente", match.getHomeTeam().equals(team1)); 
-        assertTrue("O objeto Match não foi criado corretamente", match.getAwayTeam().equals(team2));
-        assertTrue("O objeto Match não foi criado corretamente", match.getScore().equals("0 - 0"));
+        assertTrue("O time 1 da classe Match não foi criado corretamente", match.getHomeTeam().equals(team1)); 
+        assertTrue("O time 2 da classe Match não foi criado corretamente", match.getAwayTeam().equals(team2));
+        assertTrue("O placar da classe Match não foi criado corretamente", match.getScore().equals("0 - 0"));
 
     }
 }
