@@ -1,20 +1,13 @@
 package com.sistema_esportivo;
 
-
-import com.sistema_esportivo.Helpers.*;
 import com.sistema_esportivo.Utils.MenuScreens;
+import com.sistema_esportivo.Utils.Loader;
 
-public class Main{
+public class Main {
 
     public static void main(String[] args){
 
-        TeamHelper.loadAllTeams(); 
-        MatchHelper.loadAllMatches();
-        StandingsHelper.loadStandings();
-        StadiumHelper.loadAllStadiums();
-        RuleHelper.loadAllrules();
-        GroupHelper.loadAllgroups();
-        PlayerHelper.loadAllPlayers();
+        Loader.loadAllFunctions();
         MenuScreens.initialMenu();
     }
 }

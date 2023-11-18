@@ -28,7 +28,7 @@ public class MenuScreens {
                     TeamHelper.printAllTeams();
                     break;
                 case 2:
-                    StadiumHelper.printAllStadiums();
+                    LocationsPrinter.printAllLocations();
                     break;
                 case 3:
                     GroupHelper.printAllgroups();
@@ -61,7 +61,7 @@ public class MenuScreens {
             print("(3) Distribuição dos grupos");
             print("(4) Ver todas as partidas");
             print("(5) Regras e critérios");
-            print("(6) Estatísticas relevantes");
+            print("(6) Jogadores e Estatísticas");
             print("(7) Sair do sistema");
         }
     }

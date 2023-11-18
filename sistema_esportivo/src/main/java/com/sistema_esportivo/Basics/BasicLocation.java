@@ -5,6 +5,12 @@ public class BasicLocation {
     protected String name;
     protected String city;
 
+    @Override
+    public String toString() {
+        return  "   Nome do Local: " + name + '\n' +
+                "   Cidade: " + city + '\n';
+    }
+
     public String getCity() {
         return this.city;
     }
@@ -13,11 +19,11 @@ public class BasicLocation {
         this.city = city;
     }
 
-    public String getStadium_name() {
+    public String getName() {
         return this.name;
     }
 
-    public void setStadium_name(String stadium_name) {
+    public void setName(String stadium_name) {
         this.name = stadium_name;
     }
 

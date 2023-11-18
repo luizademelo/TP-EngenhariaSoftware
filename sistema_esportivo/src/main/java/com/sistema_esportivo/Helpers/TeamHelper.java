@@ -21,7 +21,6 @@ public class TeamHelper{
             JsonNode dataArray = jsonArray.get("data");  
 
             for(JsonNode element : dataArray){
-                // System.out.println(element);
                 String text = element.toString(); 
                 Team team = mapper.readValue(text, Team.class); 
                 teamList.add(team); 

@@ -22,7 +22,7 @@ public class Team {
 
     @Override
     public String toString() {
-        return "Nome do time: " + this.name + "\nEstádio: " + this.stadium + "\n"
+        return "Nome do Time: " + this.name + "\nEstádio: " + this.stadium + "\n"
                 + "Gols marcados: " + this.goals_scored + "\n" + "Gols sofridos: " + this.goals_conceded + "\n";
     }
 

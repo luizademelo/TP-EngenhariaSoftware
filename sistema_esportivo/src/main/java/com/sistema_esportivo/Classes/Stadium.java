@@ -14,9 +14,9 @@ public class Stadium extends BasicLocation {
 
     @Override
     public String toString() {
-        return  "Nome do Estádio: " + name + '\n' +
-                "Cidade: " + city + '\n' +
-                "Capacidade:" + capacity + '\n'; 
+        return  "   Nome do Estádio: " + name + '\n' +
+                "   Cidade: " + city + '\n' +
+                "   Capacidade:" + capacity + '\n';
     }
 
     public String getCapacity() {
