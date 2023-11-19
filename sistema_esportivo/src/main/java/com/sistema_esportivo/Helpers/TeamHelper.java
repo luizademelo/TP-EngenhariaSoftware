@@ -29,6 +29,7 @@ public class TeamHelper{
 
         }catch(Exception e){
             e.printStackTrace();
+            print("Não foi possível ler o arquivo de times");
         }
     }
 
@@ -44,7 +45,7 @@ public class TeamHelper{
                 return team; 
             }
         }
-        System.out.println("Time não encontrado"); 
+        System.out.println("Time " + name + " não encontrado");
         return null;
     }
 

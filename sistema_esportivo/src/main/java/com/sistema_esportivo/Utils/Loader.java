@@ -9,6 +9,7 @@ public class Loader {
         TeamHelper.loadAllTeams();
         MatchHelper.loadAllMatches();
         StandingsHelper.loadStandings();
+        CoachHelper.loadAllCoaches();
         StadiumHelper.loadAllStadiums();
         RuleHelper.loadAllrules();
         GroupHelper.loadAllgroups();

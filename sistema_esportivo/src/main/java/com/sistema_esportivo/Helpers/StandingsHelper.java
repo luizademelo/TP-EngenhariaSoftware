@@ -4,6 +4,8 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sistema_esportivo.Classes.Team;
 
+import static com.sistema_esportivo.Utils.IOMethods.print;
+
 public class StandingsHelper {
     private static final ObjectMapper mapper = new ObjectMapper();
 
@@ -22,12 +24,13 @@ public class StandingsHelper {
                 int goals_scored = Integer.parseInt(table.get("goals_scored").asText());
                 int goals_conceded = Integer.parseInt(table.get("goals_conceded").asText());
                 
-                team.setGoals_scored(goals_scored);
-                team.setGoals_conceded(goals_conceded);
+                team.setGoalsScored(goals_scored);
+                team.setGoalsConceded(goals_conceded);
             }
 
         } catch (Exception e) {
             e.printStackTrace();
+            print("Não foi possível ler o arquivo de placares");
         }
     }
 

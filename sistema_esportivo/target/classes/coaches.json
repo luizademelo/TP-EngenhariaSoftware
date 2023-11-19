@@ -1,0 +1,260 @@
+{
+  "data": [
+    {
+      "name": "Félix Sánchez Bas",
+      "age": "46",
+      "nationality": "Espanhol",
+      "coachingSince": "03/07/2017",
+      "titlesWon": "1 – Copa da Ásia (2019)",
+      "nationalTeam": "Qatar"
+    },
+    {
+      "name": "Gustavo Alfaro",
+      "age": "60",
+      "nationality": "Argentino",
+      "coachingSince": "26/08/2020",
+      "titlesWon": "2 – Copa Sul-Americana (2007) e Copa da Argentina (2013)",
+      "nationalTeam": "Ecuador"
+    },
+    {
+      "name": "Aliou Cissé",
+      "age": "46",
+      "nationality": "Senegalês",
+      "coachingSince": "05/03/2015",
+      "titlesWon": "1 – Copa Africana de Nações (2021)",
+      "nationalTeam": "Senegal"
+    },
+    {
+      "name": "Louis Van Gaal",
+      "age": "71",
+      "nationality": "Holandês",
+      "coachingSince": "04/08/2021",
+      "titlesWon": "20 – 1 Copa da Uefa (Ajax, 91/92), 1 Champions League (Ajax, 94/95), 2 Supercopas da Uefa (95/96 pelo Ajax, 97/98 pelo Barcelona), 1 Mundial de Clubes (Ajax, 94/95) e outros",
+      "nationalTeam": "Netherlands"
+    },
+    {
+      "name": "Gareth Southgate",
+      "age": "52",
+      "nationality": "Inglês",
+      "coachingSince": "28/09/2016",
+      "titlesWon": "Nenhum.",
+      "nationalTeam": "England"
+    },
+    {
+      "name": "Carlos Queiroz",
+      "age": "69",
+      "nationality": "Português",
+      "coachingSince": "07/09/2022",
+      "titlesWon": "3 – 1 Copa de Portugal (Sporting, 94/95), 1 Supercopa de Portugal (Sporting, 95/96), 1 Supercopa da Espanha (Real Madrid, 04/05)",
+      "nationalTeam": "Iran"
+    },
+    {
+      "name": "Gregg Berhalter",
+      "age": "49",
+      "nationality": "Estadunidense",
+      "coachingSince": "02/12/2018",
+      "titlesWon": "2 – 1 Concacaf Nations League (19/20), 1 Gold Cup (20/21)",
+      "nationalTeam": "USA"
+    },
+    {
+      "name": "Robert Page",
+      "age": "48",
+      "nationality": "Galês",
+      "coachingSince": "21/06/2022",
+      "titlesWon": "Nenhum.",
+      "nationalTeam": "Wales"
+    },
+    {
+      "name": "Lionel Scaloni",
+      "age": "44",
+      "nationality": "Argentino",
+      "coachingSince": "02/08/2018",
+      "titlesWon": "2 – 1 Copa América (2021), 1 Finalíssima (2022)",
+      "nationalTeam": "Argentina"
+    },
+    {
+      "name": "Hervé Renard",
+      "age": "53",
+      "nationality": "Francês",
+      "coachingSince": "29/07/2019",
+      "titlesWon": "2 – 2 Copa Africana de Nações (2012 e 2015, Zâmbia e Costa do Marfim)",
+      "nationalTeam": "Saudi Arabia"
+    },
+    {
+      "name": "Gerardo 'Tata' Martino",
+      "age": "59",
+      "nationality": "Argentino",
+      "coachingSince": "07/01/2019",
+      "titlesWon": "8 – 4 Campeonatos Paraguaios (02/03, 03/04 e 20/21 Libertad, 04/05 Cerro Porteño), 1 Supercopa da Espanha (Barcelona, 2013/14), 1 MLS Cup (Atlanta United, 17/18), 1 Gold Cup (México, 18/19).",
+      "nationalTeam": "Mexico"
+    },
+    {
+      "name": "Czesław Michniewicz",
+      "age": "52",
+      "nationality": "Polonês",
+      "coachingSince": "31/01/2022",
+      "titlesWon": "5 – 1 Copa da Polônia (Lech Poznan, 03/04), 2 Supercopas da Polônia (04/05 Lech Poznan, 07/08 Lubin SA), 2 Campeonatos Poloneses (06/07 Lech Poznan, 20/21 Legia Varsóvia)",
+      "nationalTeam": "Poland"
+    },
+    {
+      "name": "Didier Deschamps",
+      "age": "Francês",
+      "nationality": "53",
+      "coachingSince": "08/07/2012",
+      "titlesWon": "9 – 4 Copas da Liga Francesa (02/03 Mônaco, 09/10, 10/11 e 11/12 Olympique de Marseille), 2 Supercopas da França (10/11 e 11/12, Olympique de Marseille), 1 Ligue 1 (09/10, Olympique de Marseille), 1 Copa do Mundo (França, 2018), 1 Nations League (França, 20/21).",
+      "nationalTeam": "France"
+    },
+    {
+      "name": "Graham Arnold",
+      "age": "59",
+      "nationality": "Australiano",
+      "coachingSince": "16/07/2018",
+      "titlesWon": "3 – 2 Campeonatos Australianos (12/13 Central Coast Mariners, 16/17 Sydney FC), 1 Copa da Austrália (17/18, Sydney FC)",
+      "nationalTeam": "Australia"
+    },
+    {
+      "name": "Kasper Hjulmand",
+      "age": "50",
+      "nationality": "Dinamarquês",
+      "coachingSince": "01/08/2020",
+      "titlesWon": "1 – 1 Campeonato Dinamarquês (FC Nordsjaelland, 11/12)",
+      "nationalTeam": "Denmark"
+    },
+    {
+      "name": "Jalel Kadri",
+      "age": "50",
+      "nationality": "Tunisiano",
+      "coachingSince": "30/01/2022",
+      "titlesWon": "Nenhum.",
+      "nationalTeam": "Tunisia"
+    },
+    {
+      "name": "Luis Enrique",
+      "age": "52",
+      "nationality": "Espanhol",
+      "coachingSince": "19/11/2019",
+      "titlesWon": "9 – 2 LaLigas (14/15, 15/16), 3 Copa da Espanha (14/15, 15/16, 16/17), 1 Supercopa da Espanha (16/17), 1 Mundial de Clubes (15/16), 1 Supercopa da Uefa (15/16), 1 Champions League (14/15)",
+      "nationalTeam": "Spain"
+    },
+    {
+      "name": "Luis Fernando Suárez",
+      "age": "62",
+      "nationality": "Colombiano",
+      "coachingSince": "21/06/2021",
+      "titlesWon": "1 – 1 Campeonato Colombiano (Atlético Nacional, 98/99)",
+      "nationalTeam": "Costa Rica"
+    },
+    {
+      "name": "Hansi Flick",
+      "age": "57",
+      "nationality": "Alemão",
+      "coachingSince": "01/08/2021",
+      "titlesWon": "7 – 1 Copa da Alemanha (19/20), 2 Bundesligas (19/20, 20/21), 1 Supercopa da Alemanha (20/21), 1 Champions League (19/20), 1 Mundial de Clubes (20/21), 1 Supercopa da Uefa (20/21)",
+      "nationalTeam": "Germany"
+    },
+    {
+      "name": "Hajime Moriyasu",
+      "age": "54",
+      "nationality": "Japonês",
+      "coachingSince": "01/08/2018",
+      "titlesWon": "7 – 3 Campeonatos Japoneses (11/12, 12/13 e 14/15 Sanfrecce Hiroshima), 3 Supercopas do Japão (12/13, 13/14 e 14/15 Sanfrecce Hiroshima) e 1 Copa da Ásia Oriental (2022 Japão)",
+      "nationalTeam": "Japan"
+    },
+    {
+      "name": "Roberto Martínez",
+      "age": "49",
+      "nationality": "Espanhol",
+      "coachingSince": "03/08/2016",
+      "titlesWon": "1 – 1 Copa da Inglaterra (Wigan, 12/13)",
+      "nationalTeam": "Belgium"
+    },
+    {
+      "name": "John Herdman",
+      "age": "47",
+      "nationality": "Inglês",
+      "coachingSince": "08/01/2018",
+      "titlesWon": "Nenhum.",
+      "nationalTeam": "Canada"
+    },
+    {
+      "name": "Walid Regragui",
+      "age": "46",
+      "nationality": "Marroquino",
+      "coachingSince": "31/08/2022",
+      "titlesWon": "5 – 2 Campeonatos Marroquinos (15/16 FUS Rabat, 21/22 Wydad Casablanca), 1 Copa do Marrocos (13/14 FUS Rabat), 1 Campeonato do Catar (19/20 Al-Duhail), 1 CAF Champions League (21/22 Wydad Casablanca)",
+      "nationalTeam": "Morocco"
+    },
+    {
+      "name": "Zlatko Dalić",
+      "age": "55",
+      "nationality": "Croata",
+      "coachingSince": "07/10/2017",
+      "titlesWon": "3 – 1 Supercopa da Albânia (07/08 FK Dinamo), 1 Campeonato Emiradense de Futebol (14/15 Al-Ain FC), 1 Copa Saudita (12/13 Al-Hilal)",
+      "nationalTeam": "Croatia"
+    },
+    {
+      "name": "Adenor 'Tite' Bacchi",
+      "age": "61",
+      "nationality": "Brasileiro",
+      "coachingSince": "16/06/2016",
+      "titlesWon": "14 – 1 Copa do Brasil (2001 Grêmio), 2 Campeonatos Brasileiros (2011 e 2015 Corinthians), 1 Copa Sul-Americana (2008, pelo Internacional), 1 Libertadores (2012, pelo Corinthians), 1 Mundial de Clubes (2012, pelo Corinthians), 1 Copa América (Brasil, 2019) e outros.",
+      "nationalTeam": "Brazil"
+    },
+    {
+      "name": "Dragan Stojković",
+      "age": "57",
+      "nationality": "Sérvio",
+      "coachingSince": "03/03/2021",
+      "titlesWon": "2 – 1 Campeonato Japonês (09/10 Nagoya Grampus), 1 Supercopa do Japão (10/11 Nagoya Grampus)",
+      "nationalTeam": "Serbia"
+    },
+    {
+      "name": "Murat Yakin",
+      "age": "48",
+      "nationality": "Suíço",
+      "coachingSince": "09/08/2021",
+      "titlesWon": "2 – 2 Campeonatos Suíços (12/13 e 13/14 FC Basel)",
+      "nationalTeam": "Switzerland"
+    },
+    {
+      "name": "Rigobert Song",
+      "age": "46",
+      "nationality": "Camaronês",
+      "coachingSince": "01/03/2022",
+      "titlesWon": "Nenhum.",
+      "nationalTeam": "Cameroon"
+    },
+    {
+      "name": "Fernando Santos",
+      "age": "67",
+      "nationality": "Português",
+      "coachingSince": "23/09/2014",
+      "titlesWon": "8 – 1 Campeonato Português (98/99 Porto), 2 Copas de Portugal (99/00 e 00/01 Porto), 2 Supercopas de Portugal (99/00 e 00/01 Porto), 1 Copa da Grécia (01/02 AEK Atenas), 1 Eurocopa (Portugal, 2016), 1 Nations League (Portugal, 2019)",
+      "nationalTeam": "Portugal"
+    },
+    {
+      "name": "Otto Addo",
+      "age": "47",
+      "nationality": "Ganês",
+      "coachingSince": "10/02/2022",
+      "titlesWon": "Nenhum.",
+      "nationalTeam": "Ghana"
+    },
+    {
+      "name": "Paulo Bento",
+      "age": "53",
+      "nationality": "Português",
+      "coachingSince": "17/08/2018",
+      "titlesWon": "5 – 2 Copas de Portugal (06/07 e 07/08 Sporting), 2 Supercopas de Portugal (06/07 e 07/08 Sporting), 1 Copa da Ásia Oriental (Coreia do Sul, 2019)",
+      "nationalTeam": "South Korea"
+    },
+    {
+      "name": "Diego Alonso",
+      "age": "47",
+      "nationality": "Uruguaio",
+      "coachingSince": "01/01/2022",
+      "titlesWon": "3 – 1 Campeonato Clausula do México (15/16 Pachuca), 2 Concacaf Champions League (16/17 Pachuca, 18/19 Monterrey)",
+      "nationalTeam": "Uruguay"
+    }
+  ]
+}

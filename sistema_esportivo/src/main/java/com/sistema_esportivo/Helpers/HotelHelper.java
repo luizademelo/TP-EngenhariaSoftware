@@ -31,7 +31,7 @@ public class HotelHelper {
 
         } catch (Exception e) {
             e.printStackTrace();
-            System.out.println("Não foi possível ler o arquivo de estádios");
+            print("Não foi possível ler o arquivo de hotéis");
         }
     }
 

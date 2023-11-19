@@ -3,11 +3,11 @@ package com.sistema_esportivo.Classes;
 public class Team {
     private String id;
     private String name;
+    private Coach coach;
     private String stadium;
     private String location;
-    private int rank;
-    private int goals_scored;
-    private int goals_conceded;
+    private int goalsScored;
+    private int goalsConceded;
 
     public Team() {
         super();
@@ -22,8 +22,11 @@ public class Team {
 
     @Override
     public String toString() {
-        return "Nome do Time: " + this.name + "\nEstádio: " + this.stadium + "\n"
-                + "Gols marcados: " + this.goals_scored + "\n" + "Gols sofridos: " + this.goals_conceded + "\n";
+        return  "Nome do Time: " + this.name + "\n" +
+                "Informações do Técnico: " + "\n" + this.coach.toString() + "\n" +
+                "Estádio: " + this.stadium + "\n" +
+                "Gols marcados: " + this.goalsScored + "\n" +
+                "Gols sofridos: " + this.goalsConceded + "\n";
     }
 
     public String getId() {
@@ -41,16 +44,14 @@ public class Team {
     public String getLocation() {
         return this.location;
     }
+    public Coach getCoach() { return this.coach; }
 
-    public void setRank(int rank) {
-        this.rank = rank;
+    public void setGoalsScored(int goalsScored) {
+        this.goalsScored = goalsScored;
     }
 
-    public void setGoals_scored(int goals_scored) {
-        this.goals_scored = goals_scored;
+    public void setGoalsConceded(int goalsConceded) {
+        this.goalsConceded = goalsConceded;
     }
-
-    public void setGoals_conceded(int goals_conceded) {
-        this.goals_conceded = goals_conceded;
-    }
+    public void setCoach(Coach c) { this.coach = c; }
 }

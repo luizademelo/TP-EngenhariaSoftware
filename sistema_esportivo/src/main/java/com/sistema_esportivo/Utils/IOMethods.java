@@ -21,7 +21,6 @@ public class IOMethods {
         } catch (Exception e) {
             print("\nErro na leitura de entrada, digite novamente");
             return readString();
-            // return "";
         }
     }
 
@@ -29,7 +28,7 @@ public class IOMethods {
         try {
             return Integer.parseInt(readString());
         } catch (Exception e) {
-            print("\nErro na leitura de entrada, digite novamente");
+            print("\nErro na leitura de entrada. Tente novamente");
             return readInt();
         }
     }

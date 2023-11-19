@@ -8,6 +8,7 @@ import com.sistema_esportivo.Helpers.StadiumHelper;
 public class LocationsPrinter {
 
     public static void printAllLocations() {
+
         print("ESTÁDIOS");
         StadiumHelper.printAllStadiums();
         printLine();

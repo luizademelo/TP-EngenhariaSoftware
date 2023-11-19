@@ -34,7 +34,7 @@ public class MatchHelper {
             
         } catch (Exception e) {
             e.printStackTrace();
-            System.out.println("Não foi possível ler o arquivo de partidas");
+            print("Não foi possível ler o arquivo de partidas");
         }
     }
     

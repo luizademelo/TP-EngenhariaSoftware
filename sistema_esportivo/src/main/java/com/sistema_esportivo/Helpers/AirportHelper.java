@@ -17,9 +17,9 @@ public class AirportHelper {
     private static void airportsJsonToList(String json) {
         try {
             JsonNode jsonArray = mapper.readTree(json);
-            JsonNode stadiumsArray = jsonArray.get("data");
+            JsonNode airportsArray = jsonArray.get("data");
 
-            for (JsonNode element : stadiumsArray) {
+            for (JsonNode element : airportsArray) {
                 String airportName = element.get("Airport").asText();
                 String city = element.get("City").asText();
                 String icaoCode = element.get("ICAO").asText();
@@ -31,7 +31,7 @@ public class AirportHelper {
 
         } catch (Exception e) {
             e.printStackTrace();
-            System.out.println("Não foi possível ler o arquivo de estádios");
+            print("Não foi possível ler o arquivo de aeroportos");
         }
     }
 

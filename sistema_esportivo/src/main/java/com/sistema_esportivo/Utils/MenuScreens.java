@@ -25,27 +25,49 @@ public class MenuScreens {
             int option = readInt();
             switch (option) {
                 case 1:
+                    printLine();
+                    print("TIMES PARTICIPANTES");
+                    printLine();
                     TeamHelper.printAllTeams();
                     break;
                 case 2:
+                    printLine();
+                    print("LOCALIZAÇÕES");
+                    printLine();
                     LocationsPrinter.printAllLocations();
                     break;
                 case 3:
+                    printLine();
+                    print("GRUPOS");
+                    printLine();
                     GroupHelper.printAllgroups();
                     break;
                 case 4:
+                    printLine();
+                    print("PARTIDAS");
+                    printLine();
                     MatchHelper.printAllMatches();
                     break;
                 case 5:
+                    printLine();
+                    print("REGRAS E CRITÉRIOS");
+                    printLine();
                     RuleHelper.printAllrules();
                     break;
                 case 6:
+                    printLine();
+                    print("JOAGADORES E ESTATÍSTICAS");
+                    printLine();
                     PlayerHelper.printAllPlayers();
                     break;
                 case 7:
                     using = false;
+                    printLine();
+                    print("Saindo do sistema. Volte sempre!");
                     break;
                 default:
+                    printLine();
+                    print("Opção inválida. Tente novamente.");
                     break;
             }
 
